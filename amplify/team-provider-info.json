@@ -14,6 +14,22 @@
     "categories": {
       "api": {
         "myexcelamplifyapp": {}
+      },
+      "auth": {
+        "myexcelamplifyappc5fc978a": {}
+      },
+      "function": {
+        "jonah": {
+          "deploymentBucketName": "amplify-myexcelamplifyapp-dev-93d56-deployment",
+          "s3Key": "amplify-builds/jonah-505a5a51566b564e4d54-build.zip"
+        },
+        "S3Trigger3447c708": {
+          "deploymentBucketName": "amplify-myexcelamplifyapp-dev-93d56-deployment",
+          "s3Key": "amplify-builds/S3Trigger3447c708-525a7a73323847686448-build.zip"
+        }
+      },
+      "storage": {
+        "Jonah": {}
       }
     }
   }

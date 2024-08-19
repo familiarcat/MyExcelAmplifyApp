@@ -1,0 +1,14 @@
+{
+  "resourceName": "Jonah",
+  "policyUUID": "2b587b52",
+  "bucketName": "jonah-content",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "S3Trigger3447c708",
+  "groupAccess": {}
+}
