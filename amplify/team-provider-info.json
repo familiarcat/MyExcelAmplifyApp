@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-myexcelamplifyapp-dev-93d56-authRole",
+      "UnauthRoleArn": "arn:aws:iam::860268930466:role/amplify-myexcelamplifyapp-dev-93d56-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::860268930466:role/amplify-myexcelamplifyapp-dev-93d56-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-myexcelamplifyapp-dev-93d56-deployment",
+      "UnauthRoleName": "amplify-myexcelamplifyapp-dev-93d56-unauthRole",
+      "StackName": "amplify-myexcelamplifyapp-dev-93d56",
+      "StackId": "arn:aws:cloudformation:us-east-2:860268930466:stack/amplify-myexcelamplifyapp-dev-93d56/db42faa0-5e4c-11ef-92c7-0250818bb15b",
+      "AmplifyAppId": "dnei0efq8jnlb"
+    },
+    "categories": {
+      "api": {
+        "myexcelamplifyapp": {}
+      }
+    }
+  }
+}
